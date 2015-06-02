@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var stopWatchHandView: StopwatchHand!
     override func viewDidLoad() {
         super.viewDidLoad()
+        println("Stop Watch")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
