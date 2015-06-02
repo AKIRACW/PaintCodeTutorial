@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>458385A7-1E90-4611-A4D2-2ACF2F4F99E6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PaintCodeTutorial</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>394BB54302FC2529497287D6A12CB3F8268067D4</key>
+		<string>https://github.com/AKIRACW/PaintCodeTutorial.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PaintCodeTutorial.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>394BB54302FC2529497287D6A12CB3F8268067D4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AKIRACW/PaintCodeTutorial.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>394BB54302FC2529497287D6A12CB3F8268067D4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>394BB54302FC2529497287D6A12CB3F8268067D4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PaintCodeTutorial</string>
+		</dict>
+	</array>
+</dict>
+</plist>
